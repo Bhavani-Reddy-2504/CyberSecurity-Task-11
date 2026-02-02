@@ -1,0 +1,28 @@
+Task 11 – Phishing Simulation Analysis
+
+This task demonstrates a phishing attack simulation performed in a safe
+and ethical environment using dummy data only.
+
+Key Phishing Indicators Observed:
+- Urgent security alert messaging
+- Generic greeting without personalization
+- Suspicious verification link
+- Request for sensitive credentials
+- Lack of official branding or domain validation
+
+Security Analysis:
+Phishing attacks rely more on psychological manipulation than technical
+exploitation. Even well-secured systems can be compromised if users are
+tricked into revealing credentials.
+
+Preventive Measures:
+- Educate users about phishing indicators
+- Implement email filtering and spam detection
+- Use strong authentication mechanisms
+- Enforce least-privilege access
+- Promote security awareness programs
+
+Conclusion:
+Phishing remains one of the most effective attack vectors. Awareness,
+training, and cautious user behavior are critical for reducing phishing
+risk.
